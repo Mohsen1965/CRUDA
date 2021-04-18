@@ -66,7 +66,7 @@
           <option value="econome">Econome</option>
           <option value="administratif">Administratif</option>
           <option value="ordonnancier">Ordonnancier</option>
-          <option value="autres">Autres</option>
+          <option value="others">Autres</option>
         </select>
       </div>
 
